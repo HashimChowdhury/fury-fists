@@ -1,0 +1,1 @@
+ window.FURY_SERVER='';
