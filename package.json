@@ -1,0 +1,15 @@
+{
+  "name": "fury-fists",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fury Fists game: online relay server and Android app",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "ws": "^8.18.0",
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0"
+  }
+}
