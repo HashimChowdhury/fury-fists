@@ -1,1 +1,1 @@
- window.FURY_SERVER='';
+window.FURY_SERVER='https://fury-fists-abcd.onrender.com';
